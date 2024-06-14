@@ -65,5 +65,18 @@ async def predict(file: UploadFile = File(...)):
 
     prediction = model.predict(image)
     predicted_class = class_names[np.argmax(prediction)]
+    response = {'predicted_class': predicted_class}
 
-    return {'predicted_class': predicted_class}
+    if predicted_class == 'Air Terjun Oenesu':
+        response.update({
+            'artikel': ("Air Terjun Oenesu adalah salah satu tempat wisata yang ada di Kabupaten Kupang, "
+                        "Nusa Tenggara Timur yang terkenal akan keindahan alamnya. Air terjun ini adalah "
+                        "air terjun bertingkat dengan aliran air yang jernih dan kolam natural yang disokong "
+                        "oleh hutan hijau yang rimbun. Akses jalan menuju air terjun ini sangat mudah. Harga "
+                        "tiket yang ditawarkan hanya 5.000 per orang. Oenesu sangat digemari oleh para pengendara "
+                        "jalan untuk berenang dan bersantai karena suasana yang sangat tenang dan asri."),
+            'lokasi': 'https://maps.app.goo.gl/hvtjpgSFLFtAQCAF7',
+            'rating': 4.5
+        })
+
+    return response
