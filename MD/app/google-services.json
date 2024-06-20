@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67582852274",
+    "project_id": "explorentt-25b63",
+    "storage_bucket": "explorentt-25b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67582852274:android:f6068c0395317d78c09dab",
+        "android_client_info": {
+          "package_name": "com.example.explorentt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7g2rAIaY4B78FrhXQ-5VsaYPIWhueAyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
