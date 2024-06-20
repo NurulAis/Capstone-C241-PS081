@@ -19,17 +19,17 @@ Welcome to **ExploreNTT** – an innovative application designed to predict and 
 This project is powered by a dedicated team of seven members:
 
 - **Machine Learning**:
-  - Nunu
-  - Zakaria
-  - Naya
+  - Zakaria Nur A
+  - Nurul Aisyah
+  - Nayya Kamila Putri Y
 
 - **Cloud Computing**:
-  - Adam
-  - Awwa
+  - Adam Putra Berlin
+  - Aini Awwaliya M
 
 - **Mobile Development**:
-  - Hafidz
-  - Raihan
+  - M. Hafidz Arrahman
+  - M. Raihan Valentino
 
 ## How to Use 🚀
 
