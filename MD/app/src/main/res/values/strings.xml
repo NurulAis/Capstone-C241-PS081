@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExploreNTT</string>
+    <string name="NewUser">New User?</string>
+    <string name="Register">Register Here</string>
+    <string name="Login">LOGIN</string>
+    <string name="Logout">Logout</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Forgot">Forgot Password?</string>
+    <string name="Have_Account">Already Have Account?</string>
+    <string name="Regis">REGISTER</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="deskripsi_wisata">Deskripsi Wisata</string>
+    <string name="Welcome">Welcome to this Tourism APP. ExploreNTT</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="blank_image">Pilih Gambar Untuk di Analisi</string>
+    <string name="remove_image">Pilih Gambar</string>
+    <string name="msg_nama_wisata">Nama Wisata</string>
+    <string name="image_description">img des</string>
+
+</resources>
