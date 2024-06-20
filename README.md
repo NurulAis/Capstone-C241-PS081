@@ -30,3 +30,9 @@ This project is powered by a dedicated team of seven members:
 - **Mobile Development**:
   - Hafidz
   - Raihan
+
+## How to Use 🚀
+
+1. **Upload Image 📸**: Upload an image of a tourist spot in NTT.
+2. **Get Prediction 🔍**: The app processes the image and predicts the name of the place.
+3. **View Information 📝**: Get detailed information about the predicted tourist spot.
